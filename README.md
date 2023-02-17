@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crownofwealth
-- 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on software engineering
+- 👀 I’m interested in Website Development 
+- 🌱 I’m currently learning Web Development 
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me crownofwealth25@yahoo.com
 
 <!---
